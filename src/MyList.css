@@ -1,0 +1,26 @@
+* {
+    font-family:'Bradley Hand';
+}
+
+body {
+    background-image: url('./notebook-paper.jpeg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.todo-box {
+    margin-left: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    margin: 14px
+}
